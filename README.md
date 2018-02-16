@@ -1,0 +1,1 @@
+This is a small page with a map in the last block
